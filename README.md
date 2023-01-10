@@ -9,7 +9,7 @@
 
 ## 翻译进度
 
-18.11 [出于性能考虑的最佳实践和建议](eBook/18.11.md)
+19.10 [总结和增强](eBook/19.10.md)
 
 ## 支持本书
 
@@ -18,6 +18,10 @@
 ## 交流社区
 
 参见 [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)。
+
+关注 Go 语言中文网公众号学习 Go
+
+![](studygolang-qrcode.jpg)
 
 ### 新人守则
 
